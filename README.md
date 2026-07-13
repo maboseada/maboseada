@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Hany 👋
 
-<!--
-**maboseada/maboseada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Engineering Student
 
-Here are some ideas to get you started:
+🤖 Interested in AI Engineering, Industrial Automation, and Robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about building intelligent engineering solutions.
+
+🌱 Currently learning Machine Learning, PLC, and Embedded Systems.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- C
+- PLC Programming
+- ESP32
+- Arduino
+- Git & GitHub
+
+---
+
+## 📌 Current Projects
+
+- 🦶 Smart Insole for Diabetic Foot Monitoring
+- 🏭 PLC & Factory I/O Projects
+- 🤖 Robotics Projects
+- 🧠 AI Engineering Projects
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/m-aboseada
